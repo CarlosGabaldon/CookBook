@@ -1,1 +1,4 @@
+default.properties
 gen/
+bin/
+.settings/
